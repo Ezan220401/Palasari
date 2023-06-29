@@ -1,0 +1,10 @@
+https://id.000webhost.com/
+nama web : GarasiUbud
+password: *%O!!suLrM!wwn!)Gkxe
+
+
+==Database==
+dbname: id20489939_resto
+dbusername: id20489939_root
+dbhost: localhost
+dbpassword: U]0U%(RB9op]*/jm
